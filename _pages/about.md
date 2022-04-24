@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle: Electronics Designer |Software Developer | Maker
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 
   address: >
     <a href="mailto:ruzgarerik@gmail.com">ruzgarerik@gmail.com</a>  
 
