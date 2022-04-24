@@ -58,3 +58,6 @@
             {%- if site.instagram_username -%}
             <a href="https://instagram.com/{{  site.instagram_username }}" title="Instagram"><i class="fab fa-instagram"></i></a>
             {% endif %}
+            {%- if site.gpgkey -%}
+            <a href="{{  site.gpgkey }}" title="GPG Key"><i class="fab fa-lock"></i></a>
+            {% endif %}
