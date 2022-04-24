@@ -1,6 +1,9 @@
             {%- if site.email -%}
             <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fas fa-envelope"></i></a>
             {% endif %}
+            {%- if site.instagram_username -%}
+            <a href="https://instagram.com/{{  site.instagram_username }}" title="Instagram"><i class="fab fa-instagram"></i></a>
+            {% endif %}
             {%- if site.orcid_id -%}
             <a href="https://orcid.org/{{ site.orcid_id }}" title="ORCID"><i class="ai ai-orcid"></i></a>
             {% endif %}
@@ -55,9 +58,7 @@
             {%- if site.rss_icon -%}
             <a href="{{ site.baseurl | prepend: site.url }}/feed.xml" title="RSS Feed"><i class="fas fa-rss-square"></i></a>
             {% endif %}
-            {%- if site.instagram_username -%}
-            <a href="https://instagram.com/{{  site.instagram_username }}" title="Instagram"><i class="fab fa-instagram"></i></a>
-            {% endif %}
+
             {%- if site.gpgkey -%}
             <a href="{{  site.gpgkey }}" title="GPG Key"><i class="fab fa-lock"></i></a>
             {% endif %}
