@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Electronics Designer |Software Developer | Maker
+subtitle: Electronics Designer | Software Developer | Maker
 
 profile:
   align: left
