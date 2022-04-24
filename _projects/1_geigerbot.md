@@ -2,7 +2,7 @@
 layout: page
 title: Geiger-Bot
 description: a radiation mapping robot made with simple parts
-img: assets/img/12.jpg
+img: assets/img/geigerbot.jpg
 importance: 1
 category: projects
 ---
