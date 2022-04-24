@@ -5,7 +5,7 @@ permalink: /
 subtitle: Electronics Designer |Software Developer | Maker
 
 profile:
-  align: right
+  align: left
   image: 
   address: >
     <a href="mailto:ruzgarerik@gmail.com">ruzgarerik@gmail.com</a>  
