@@ -18,7 +18,7 @@ Proje Uluslararası Sivas Robotik Yarışması’nda “Çevre Teknolojileri Lis
         {% include figure.html path="assets/img/cizimler.png" title="İzometrik Çizimler" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/geigerender.png" title="V5 3D Render" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/geigerrender.png" title="V5 3D Render" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/versions.png" title="Versiyonlar" class="img-fluid rounded z-depth-1" %}
@@ -38,7 +38,7 @@ The development of the project has lasted for more than 4 years. The project mad
         {% include figure.html path="assets/img/cizimler.png" title="Isometric Drawings" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/geigerender.png" title="V5 3D Render" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/geigerrender.png" title="V5 3D Render" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/versions.png" title="Versions" class="img-fluid rounded z-depth-1" %}
