@@ -1,10 +1,11 @@
 ---
-layout: page
 title: Geiger-Bot
+categories:
+- projects
+layout: page
 description: 
 img: assets/img/geigerbot.jpg
 importance: 1
-category: projects
 ---
 
 Geiger-Bot projem ile belirlediğim hedef kitleye (jeologlar, öğrenciler, bilim insanları, arama kurtarma ekipleri) düşük maliyetli kolay bir şekilde üretilebilen, yüksek geliştirme kapasiteli ,açık kaynaklı, iyonize edici radyasyonu ölçüp kaydedecek radyasyon ve konum bilgisini anlık olarak paylaşacak, ölçümlerin, üniversiteleri araştırma ve kuluçka merkezleri gibi radyasyonla uğraşılan yerlerde herhangi bir afet, kaza olayında durum değerlendirmesinin insansız bir şekilde gerçekleştirmesini sağlayan robot geliştirdim. Projedeki asıl amaç piyasada bu tip radyasyon ölçüm ve haritalandırma robotlarının yüksek maliyetli ve kapalı kaynak olması ve ülkemizde kolay temin edilememesi sorununun açık kaynaklı bir araç tasarlanarak çözülmesidir 

@@ -1,10 +1,10 @@
 ---
-layout: page
 title: projects
-permalink: /projects/
-description:
+permalink: "/projects/"
+layout: page
+description: 
 nav: true
-display_categories:
+display_categories: 
 horizontal: false
 ---
 

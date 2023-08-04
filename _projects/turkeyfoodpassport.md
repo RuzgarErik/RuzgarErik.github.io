@@ -1,11 +1,13 @@
 ---
-layout: page
 title: Turkey Food Passport
+categories:
+- projects
+layout: page
 description: 
 img: assets/img/tfpcover.png
 importance: 1
-category: projects
 ---
+
 Ülkemizi ziyarette bulunan turistlerin, ülkemizin coğrafi işaretli, tescilli ürünlerini denemesinin teşvik edilmesi amacıyla bir NFT koleksiyon uygulaması geliştirdim. Yaptığım uygulamada turistler hesap oluşturarak, coğrafi işaretli ürünler denediklerinde uygulamalarındaki cüzdana blok zinciri üzerinde barındırılacak NFT aktarılacaktır. Böylece turistlerin ülkemizin değerlerini ve kültürünü denemesi teşvik edilmiş olacaktır. Ayrıca turistler denedikleri ürünlerin standartlara uygun olup olmadığını kontrol edebilecektir. Telefon ve web uygulamalarını React Native kullanarak geliştirdim. Coğrafi İşaret veri tabanından verilerin çekilmesini ve NFT oluşturulmasını sağlayacak bir sistemi de sunucusuz mimariye uygun olarak geliştirdim. NFT oluşturulmasında kullanılacak akıllı kontratı openzeppelin kütüphanesi kullanarak Solidity dilinde ERC1155 standardına göre geliştirdim ve Blokchain üzerinde yayınladım. 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
